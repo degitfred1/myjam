@@ -1,0 +1,25 @@
+<html>
+<style type='text/css'>
+body{
+
+    background:red;
+}
+
+
+
+h{
+
+font-size:bold;
+color:white;
+
+}
+</style>
+
+<body>
+<h>the document</h>
+<p>the defference between SSH and HTTPS</p>
+
+</body>
+
+
+</html>
